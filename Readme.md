@@ -1,10 +1,10 @@
-# CSS Practice with Freepik Designs
+# Tailwind CSS Practice with Freepik Designs
 
-This is a personal project where I practice CSS by replicating and customizing designs from Freepik. The goal is to enhance my front-end skills by implementing modern layouts, animations, and responsiveness.
+This is a personal project where I practice Tailwind CSS by replicating and customizing designs from Freepik. The goal is to enhance my front-end skills by implementing modern layouts, animations, and responsiveness.
 
 ## Tech Stack
 - **HTML5**
-- **CSS3**
+- **Tailwind CSS**
 
 ## How to Use
 1. Clone this repository:
